@@ -1,0 +1,5 @@
+@EndUserText.label: 'CONNECTION SERVICE'
+define service ZI_CONNECTION_S {
+  expose ZI_Connection_S;
+  expose ZI_FIGHT_S;
+}

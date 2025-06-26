@@ -1,0 +1,6 @@
+@EndUserText.label: 'Managed Scenario'
+define service ZSer_Def_Managed {
+  expose ZC_Travel_Saran;
+  expose ZC_BOOK_SARAN;
+  expose ZC_BOOKSUPP_SARAN;
+}
